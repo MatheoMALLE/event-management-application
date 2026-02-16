@@ -1,4 +1,4 @@
-# Test technique pour un Application de gestion d'événements
+# (Test technique) Application de gestion d'événements
 Ce github est un test technique, Il contient le code frontend d'une application.
 
 ## 🧰 Compétences requises
